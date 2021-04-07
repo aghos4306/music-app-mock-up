@@ -1,0 +1,3 @@
+continue from section 191
+music fa icon not displayed on css
+search icon not properly displayed
